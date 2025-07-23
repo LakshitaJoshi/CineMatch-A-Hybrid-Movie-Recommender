@@ -1,8 +1,8 @@
 <h1> 🍿🎥✮⋆˙ CineMatch: A Hybrid Movie Recommender </h1>
 
 ## Dataset
-[Movie Lens Small Latest Dataset](https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset)<br>
-TMDB API
+  - [Movie Lens Small Latest Dataset](https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset)
+  - TMDB API
 
 ## Goal
 To build a Recommendation System using Collaborative Filtering and Content-based Filtering.
