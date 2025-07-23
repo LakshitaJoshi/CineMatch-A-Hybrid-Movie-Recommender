@@ -4,7 +4,7 @@
 [Movie Lens Small Latest Dataset](https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset)
 
 ## Goal
-To build a Recommendation System using Collaborative Filtering or Matrix Factorization Techniques.
+To build a Recommendation System using Collaborative Filtering and Content-based Filtering.
 
 ## Method Used
 - Content-based Filtering
